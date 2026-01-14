@@ -1,4 +1,5 @@
 Bevy Endless Runner 2D
+
 Prosta gra zręcznościowa typu endless runner stworzona w silniku Bevy 0.17.3 (Rust) https://bevy.org/. 
 
 Projekt demonstruje podstawy architektury ECS, zarządzanie stanami gry oraz proceduralne generowanie obiektów.
@@ -29,4 +30,4 @@ git clone https://github.com/kacciuor/rust_gra_2D
 
 cd nazwa-repo
 
-cargo run --release
+cargo run 
